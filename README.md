@@ -1,1 +1,1 @@
-## intentionally left blank
+an easy config library.
