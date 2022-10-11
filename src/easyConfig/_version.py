@@ -1,0 +1,8 @@
+__author__ = "snowskeleton"
+__author_email__ = "isaac@snowskeleton.net"
+__description__ = "Safe user config library"
+__license__ = "Apache 2.0"
+__status__ = "Development"
+__title__ = "easyConfig"
+__url__ = "https://github.com/snowskeleton/easyConfig"
+__version__ = "0.0.0"
